@@ -1,7 +1,7 @@
 # Devinci MRP Optimization 🚴‍♂️
 
 ## Overview
-In this project, an optimization model is presented for the Material Requirement Planning (MRP) of DeVinci Bikes production. Leveraging Gurobi and Python within a Jupyter notebook environment, this model enhances DeVinci Bikes' current production methodologies.
+In this project, an optimization model is presented for the Material Requirement Planning (MRP) of Devinci Bikes production. Leveraging Gurobi and Python within a Jupyter notebook environment, this model enhances DeVinci Bikes' current production methodologies.
 
 ## Key Features
 1. **Optimized MRP Model**: A refined model focused on resource efficiency and waste minimization.
