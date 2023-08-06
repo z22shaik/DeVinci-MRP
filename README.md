@@ -22,7 +22,7 @@ In this project, an optimization model is presented for the Material Requirement
 ### Usage
 1. Clone the repo:
 ```sh
-git clone https://github.com/z22shaik/Devinci MRP.git
+git clone https://github.com/z22shaik/Devinci-MRP.git
 ```
 2. Navigate and open the Jupyter Notebook:
 ```sh
